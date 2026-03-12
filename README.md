@@ -14,3 +14,12 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 -Class 07 [Machine Learning 1](class07/class07.html)
 
 -Class 08 [Candy MiniProject](Class08/Class08-MiniProject.html)
+
+-Class 12 [a](class12.html)
+
+-Class 16 [asfs](class16.md)
+
+-RNA-Seq MiniProject [asdf](RNASeqMiniProj.html)
+
+-Class 18 [dfsdh](class18.html)
+
