@@ -13,13 +13,27 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 -Class 07 [Machine Learning 1](class07/class07.html)
 
--Class 08 [Candy MiniProject](Class08/Class08-MiniProject.html)
+-Class 08 [Unsupervised learning mini-project]
 
--Class 12 [a](class12.html)
+-Class 09 [Candy MiniProject](Class08/Class08-MiniProject.html)
 
--Class 16 [asfs](class16.md)
+-Class 10 [Structural Bioinformatics (pt1)]
 
--RNA-Seq MiniProject [asdf](RNASeqMiniProj.html)
+-Class 11 [Structural Bioinformatics (pt2 AlphaFold)]
 
--Class 18 [dfsdh](class18.html)
+-Class 12 [Genome informatics and high throughput sequencing](class12.html)
+
+-Class 13 [Analyzing sequencing data in the cloud]
+
+-Class 14 [RNA-Seq MiniProject](RNASeqMiniProj.html)
+
+-Class 15 (Git)
+
+-Class 16 [Essential UNIX for bioinformatics](class16.md)
+
+-Class 17 [Analyzing sequencing data in the cloud]
+
+-Class 18 [Investigating pertussis resurgence mini-project](class18.html)
+
+-Class 19 [Cancer mutation analysis mini-project]
 
