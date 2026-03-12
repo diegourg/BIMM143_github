@@ -17,9 +17,9 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 -Class 09 [Candy MiniProject](Class08/Class08-MiniProject.html)
 
--Class 10 [Structural Bioinformatics (pt1)]
+-Class 10 [Structural Bioinformatics (pt1)](structuralbioinfo.html)
 
--Class 11 [Structural Bioinformatics (pt2 AlphaFold)]
+-Class 11 [Structural Bioinformatics (pt2 AlphaFold)](class11.pdf)
 
 -Class 12 [Genome informatics and high throughput sequencing](class12.html)
 
